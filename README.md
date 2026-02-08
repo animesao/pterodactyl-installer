@@ -255,7 +255,7 @@ Copyright (c) 2024 Animesao
 <div align="center">
 
 [![📖 Документация](https://img.shields.io/badge/📖-Документация_Pterodactyl-blue?style=for-the-badge)](https://pterodactyl.io/)
-[![💬 Discord](https://img.shields.io/badge/💬-Discord-purple?style=for-the-badge&logo=discord)](https://discord.gg/pterodactyl)
+[![💬 Discord](https://dsc.gg/alfheimguide)
 [![🐙 GitHub Panel](https://img.shields.io/badge/🐙-Panel_GitHub-gray?style=for-the-badge&logo=github)](https://github.com/pterodactyl/panel)
 [![🐙 GitHub Wings](https://img.shields.io/badge/🐙-Wings_GitHub-gray?style=for-the-badge&logo=github)](https://github.com/pterodactyl/wings)
 
@@ -270,3 +270,4 @@ Copyright (c) 2024 Animesao
 Made with ❤️ by **Animesao**
 
 </div>
+
