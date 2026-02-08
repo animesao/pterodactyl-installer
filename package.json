@@ -1,0 +1,25 @@
+{
+  "name": "pterodactyl-installer",
+  "version": "1.0.0",
+  "description": "Автоматический установщик Pterodactyl Panel для VDS",
+  "main": "install.js",
+  "scripts": {
+    "start": "node install.js",
+    "install": "node install.js"
+  },
+  "keywords": [
+    "pterodactyl",
+    "panel",
+    "install",
+    "vps",
+    "docker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.0",
+    "shelljs": "^0.8.5"
+  }
+}
