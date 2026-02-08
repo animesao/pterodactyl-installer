@@ -5,13 +5,18 @@
  * Полный установщик Pterodactyl Panel и Wings на VDS
  */
 
-const { execSync } = require('child_process');
-const fs = require('fs');
-const path = require('path');
-const chalk = require('chalk');
-const inquirer = require('inquirer');
-const axios = require('axios');
-const crypto = require('crypto');
+import { execSync } from 'child_process';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import chalk from 'chalk';
+import inquirer from 'inquirer';
+import axios from 'axios';
+import crypto from 'crypto';
+import shell from 'shelljs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Цвета
 const colors = {
