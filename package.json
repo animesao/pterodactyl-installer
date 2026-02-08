@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Автоматический установщик Pterodactyl Panel для VDS",
   "main": "install.js",
+  "type": "module",
   "scripts": {
     "start": "node install.js",
     "install": "node install.js"
@@ -18,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.0",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.0",
     "inquirer": "^9.2.0",
     "shelljs": "^0.8.5"
   }
